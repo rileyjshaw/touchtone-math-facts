@@ -6,8 +6,8 @@
 
 `Press two for multiplication.`
 
-## Want to play?
-Call **+1.480.360.MATH (6284)** from the US, and **+1.647.360.MATH (6284)** from Canada.
+## ~Want to play?~ Demo phone numbers have expired.
+~Call **+1.480.360.MATH (6284)** from the US, and **+1.647.360.MATH (6284)** from Canada.~
 
 ```
                                _________________
